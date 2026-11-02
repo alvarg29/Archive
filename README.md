@@ -6,13 +6,14 @@ ROADMAP
 
 v.1.1
 
-Añadir vista de lista en la colección
-Añadir URL a los items (lletterboxd, goodreads, etc)
-Rediseño de la paleta de colores
-Comprimir márgenes
+- Añadir vista de lista en la colección
+- Añadir URL a los items (Letterboxd, Goodreads, etc.)
+- Rediseño de la paleta de colores
+- Comprimir composición general
+
 v.1.2
 
-Solucionar importación de series
-Externalizar la base de datos (SQLite)
-Asignar servidor en OneDrive
-Configurar colección para cargar elementos en tandas de 30 al avanzar
+- Solucionar importación de series
+- Externalizar la base de datos (SQLite)
+- Asignar servidor en OneDrive
+- Configurar colección para cargar elementos en tandas de 30 al avanzar
